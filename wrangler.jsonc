@@ -11,5 +11,4 @@
   "vars": {
     "CLOUDFLARE_API_BASE": "https://api.cloudflare.com/client/v4"
   },
-  "worker_loaders": [{ "binding": "LOADER" }]
 }
